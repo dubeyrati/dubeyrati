@@ -13,7 +13,7 @@
 
 - 👨‍💻 My Linkedin - [Linkedin](https://www.linkedin.com/in/rati-dubey-a75449229/)
 
-- - 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C++**
 
 - 📫 How to reach me **dubeyrati1@gmail.com**
 
