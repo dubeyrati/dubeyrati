@@ -36,8 +36,8 @@
 <br>
 
 <p align = "center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyrati&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dubeyrati&theme=radical&line_height=0" alt="dubeyrati" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyrati&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dubeyrati&theme=radical&line_height=0" alt="dubeyrati" />
 </p>
 <br>
 <p align = "center">
